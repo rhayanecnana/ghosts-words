@@ -18,11 +18,8 @@
                   {{ end }}
 
                   <div class="panel-body">
-                    <h3 class="panel-title pull-left">{{ .Title }}</h3><span class="post-meta pull-right"><small>{{ .Date.Format "02/01/2006" }}</small></span>
-                  </div>
-
-                  <div class="panel-body"><small>
-                    {{ .Summary | plainify | truncate 180 }}</small>
+                    <br/>
+                    <h3 class="panel-title" style="text-align: center;">{{ .Title }}</h3><span class="post-meta pull-right"><small>{{ .Date.Format "02/01/2006" }}</small></span>
                   </div>
                 </div>
                 </a>
