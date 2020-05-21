@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Ghosts Words"
+title = "Ghost's Words"
 theme = "hugo-cards"
 
 # RSS, categories and tags disabled for an easy start
