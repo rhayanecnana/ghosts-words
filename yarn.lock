@@ -5076,10 +5076,10 @@ https-browserify@^1.0.0:
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
-hugo-bin@^0.58.0:
-  version "0.58.0"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.58.0.tgz#f8ec63199c1e73135d3e24eb41297201f9172d43"
-  integrity sha512-lTn+UrsTFJLlTaFWVgY1LcwObc+XeZ5O49Bh2I0megfEBloqR4CuYKjg237IIKZPvh+PIi4ZDv+UrPCBbeKBCA==
+hugo-bin@0.60.0:
+  version "0.60.0"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.60.0.tgz#a754f8d460f1eec2208ea68c40a2a9a33d6c10b5"
+  integrity sha512-zdn2lP83yrwhk13/9MBOSJiRValmDjIhdWB8KPb0zxnsVIIVVoySpzAykuItVxRMIGz9B5F/yCrNJOeBLIhZqg==
   dependencies:
     bin-wrapper "^4.1.0"
     pkg-conf "^3.1.0"
@@ -10756,9 +10756,9 @@ uglify-js@3.4.x:
     source-map "~0.6.1"
 
 unbzip2-stream@^1.0.9:
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/unbzip2-stream/-/unbzip2-stream-1.4.2.tgz#84eb9e783b186d8fb397515fbb656f312f1a7dbf"
-  integrity sha512-pZMVAofMrrHX6Ik39hCk470kulCbmZ2SWfQLPmTWqfJV/oUm0gn1CblvHdUu4+54Je6Jq34x8kY6XjTy6dMkOg==
+  version "1.4.3"
+  resolved "https://registry.yarnpkg.com/unbzip2-stream/-/unbzip2-stream-1.4.3.tgz#b0da04c4371311df771cdc215e87f2130991ace7"
+  integrity sha512-mlExGW4w71ebDJviH16lQLtZS32VKqsSfk80GCfUlwT/4/hNRFsoscrF/c++9xinkMzECL1uL9DDwXqFWkruPg==
   dependencies:
     buffer "^5.2.1"
     through "^2.3.8"
